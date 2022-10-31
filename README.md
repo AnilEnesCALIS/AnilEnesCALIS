@@ -8,10 +8,13 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anilenescalis)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/anl_eness)
+[![website](./img/twitter-light.svg)](https://twitter.com/anl_eness)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/anleness/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/anleness/)
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCr4ufIom3FlPBrhGBc7c5Bw?app=desktop)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCr4ufIom3FlPBrhGBc7c5Bw?app=desktop)
 &nbsp;&nbsp;
 </a>
 <a href="mailto:anilenescalis@gmail.com" target="_blank">
