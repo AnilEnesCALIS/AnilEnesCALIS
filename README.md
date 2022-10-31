@@ -5,6 +5,7 @@
 ### Connect with me:
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anilenescalis)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anilenescalis)
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/anl_eness)
 &nbsp;&nbsp;
